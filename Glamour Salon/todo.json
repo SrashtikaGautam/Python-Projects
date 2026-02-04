@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "status": "completed",
+      "content": "Refine animations for homepage login section (remove scale/zoom, strict translateY limit, lock dimensions)",
+      "priority": "high",
+      "created_at": 1768913862
+    },
+    {
+      "id": "2",
+      "status": "completed",
+      "content": "Refine animations: Remove scale/zoom, limit translateY to 5-8px, lock image dimensions, ensure no layout shifts",
+      "priority": "high",
+      "created_at": 1768913592
+    },
+    {
+      "id": "3",
+      "status": "completed",
+      "content": "Fix hero text color (change from black to white)",
+      "priority": "high",
+      "created_at": 1768915000
+    }
+  ]
+}

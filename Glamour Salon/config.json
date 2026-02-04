@@ -1,0 +1,25 @@
+{
+    "salon_name": "Glamour",
+    "tagline": "Where Beauty Meets Elegance",
+    "contact": {
+        "address": "E-168 Indrapuram, Ghaziabad, State – 102100",
+        "phone": "9871509370",
+        "email": "srashtikagautam469@gmail.com",
+        "whatsapp": "+919871509370"
+    },
+    "hours": {
+        "monday_friday": "9:00 AM",
+        "saturday": "9:00 AM",
+        "sunday": "Closed"
+    },
+    "social_media": {
+        "facebook": "https://facebook.com/glamoursalon",
+        "instagram": "https://instagram.com/glamoursalon",
+        "twitter": "https://twitter.com/glamoursalon"
+    },
+    "theme": {
+        "primary_color": "#FF69B4",
+        "secondary_color": "#DA70D6",
+        "accent_color": "#BA55D3"
+    }
+}
