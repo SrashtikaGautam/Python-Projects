@@ -11,7 +11,8 @@ Welcome to Glamour Salon, a premium salon experience designed exclusively for wo
 - 📸 **Gallery**: Visual showcase of our salon and services
 - 📞 **Contact Information**: Complete contact details and social media links
 
-## Getting Started
+### Running the Application
+https://glamour-salon-kw6h.onrender.com
 
 ### Prerequisites
 
@@ -26,15 +27,6 @@ Welcome to Glamour Salon, a premium salon experience designed exclusively for wo
    ```bash
    pip install -r requirements.txt
    ```
-
-### Running the Application
-
-To start the Glamour Salon website, run:
-```bash
-streamlit run app.py
-```
-
-The application will be available at `http://localhost:8501` in your web browser.
 
 ## Project Structure
 
@@ -70,10 +62,6 @@ You can customize the salon information by editing the `config.json` file:
 - Change social media links
 - Adjust color theme
 
-## Contributing
 
-This project is designed for educational purposes. Feel free to fork and modify for your own use.
-
-## License
 
 This project is open source and available under the MIT License.
