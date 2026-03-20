@@ -2,6 +2,9 @@
 
 An interactive employee dashboard built with Python and Streamlit for Srashtikasoftware company.
 
+## Live Link
+https://employee-dashboard-pcl8.onrender.com
+
 ## Features
 
 - Dashboard Overview with key metrics
@@ -11,24 +14,6 @@ An interactive employee dashboard built with Python and Streamlit for Srashtikas
 - Project Management
 - Resource Allocation
 
-## Installation
-
-1. Clone or download this repository
-2. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-
-## Running the Dashboard
-
-### Option 1: Using the start_app script (Recommended)
-```
-python start_app.py
-```
-
-### Option 2: Direct Streamlit command
-```
-streamlit run dashboard_app.py
 ```
 
 ## Dashboard Pages
@@ -47,15 +32,3 @@ streamlit run dashboard_app.py
 - Pandas
 - NumPy
 - Plotly
-
-## Customization
-
-You can customize the dashboard by modifying `dashboard_app.py`:
-- Add new metrics and visualizations
-- Modify existing charts
-- Add new pages
-- Change styling in the CSS section
-
-## Support
-
-For issues or feature requests, please contact the development team.
